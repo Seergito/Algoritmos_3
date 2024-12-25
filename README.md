@@ -1,8 +1,3 @@
-
-Aquí tienes un archivo README.md breve para el script:
-
-markdown
-Copiar código
 # a12: Algoritmos de Ordenación, Búsqueda y Resolución de Problemas Clásicos
 
 Este proyecto contiene implementaciones de varios algoritmos de programación en Java para resolver problemas comunes de ordenación, búsqueda y combinatoria.
